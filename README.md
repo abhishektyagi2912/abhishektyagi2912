@@ -15,7 +15,6 @@
 <a href="https://linkedin.com/in/abhishek-tyagi-094b3a1b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-tyagi-094b3a1b8" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aatyagi2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/aatyagi2/" height="30" width="40" /></a>
 <a href="https://instagram.com/abhityagi2912" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhityagi2912" height="30" width="40" /></a>
-<a href="https://discord.gg/abhityagi#6805" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="abhityagi#6805" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
