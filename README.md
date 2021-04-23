@@ -24,7 +24,6 @@
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishektyagi2912&show_icons=true&theme=graywhite)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektyagi2912&theme=graywhite" alt="abhishektyagi2912" /></p>
 
 
 ### My Projects ✨:
