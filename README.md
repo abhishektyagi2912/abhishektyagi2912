@@ -27,6 +27,25 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektyagi2912&theme=graywhite" alt="abhishektyagi2912" /></p>
 
+### My Projects ✨:
+  
+<a href="https://github.com/abhishektyagi2912/Basic-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Basic-Game&theme=graywhite" />
+</a>
+
+<a href="https://github.com/abhishektyagi2912/webcam_scroll_socialmedia_automatic">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=webcam_scroll_socialmedia_automatic&theme=graywhite" />
+</a>
+
+
+<a href="https://github.com/abhishektyagi2912/Emotion-detector">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Emotion-detector&theme=graywhite" />
+</a>
+
+
+
+
+
 
 
 
