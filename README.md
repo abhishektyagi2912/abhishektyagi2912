@@ -41,9 +41,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Emotion-detector&theme=graywhite" />
 </a>
 
-<a href="https://github.com/abhishektyagi2912/Emotion-detector">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Emotion-detector&theme=graywhite" />
-</a>
+
 
 
 
