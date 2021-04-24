@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;$ $ Find me here $ $
 
-[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/abhishektyagi2912)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-tyagi-094b3a1b8/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/aatyagi2)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/abhityagi2912/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/abhityagi291220)
+[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/abhishektyagi2912)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-tyagi-094b3a1b8/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/aatyagi2)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/abhityagi2912/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/abhityagi29120)
 
 </p>
 
