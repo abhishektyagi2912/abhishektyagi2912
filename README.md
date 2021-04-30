@@ -37,6 +37,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=webcam_scroll_socialmedia_automatic&theme=graywhite" />
 </a>
 
+<a href="https://github.com/abhishektyagi2912/Ophelia-Strokes-artdesigner">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Ophelia-Strokes-artdesigner&theme=graywhite" />
+</a>
+
 
 
 
