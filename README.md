@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektyagi2912&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektyagi2912" /> </p>
 
-- 🌱 I’m currently learning **basic Gui with python**
+- 🌱 I’m currently learning **Basic Gui with python**
 
 - 👯 I’m looking to collaborate on **open source project**
 
