@@ -25,8 +25,8 @@
 
 ### My Projects ✨:
   
-<a href="https://github.com/abhishektyagi2912/Basic-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Basic-Game&theme=graywhite" />
+<a href="https://github.com/abhishektyagi2912/Basic-Golf-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishektyagi2912&repo=Basic-Golf-Game&theme=graywhite" />
 </a>
 
 <a href="https://github.com/abhishektyagi2912/Emotion-detector">
