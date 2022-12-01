@@ -22,6 +22,7 @@
 
 
   <p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
  <i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishektyagi2912&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" /></p>
@@ -32,16 +33,5 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=abhishektyagi2912&theme=juicyfresh&no-bg=true" />
-
-
-
-
-
-
-
-
-
-
-
 
 
