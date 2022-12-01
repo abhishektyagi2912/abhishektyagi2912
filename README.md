@@ -9,10 +9,22 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;$ $ Find me here $ $
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/abhishektyagi2912)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-tyagi-094b3a1b8/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/aatyagi2)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/abhityagi2912/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/abhityagi29120)
+<a href="https://www.linkedin.com/in/abhityagi2912/">
+    <img align="left" alt="Abhishek Tyagi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/abhityagi29120">
+    <img align="left" alt="Abhishek Tyagi | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/abhityagi2912/">
+    <img align="left" alt="Abhishek Tyagi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:abhishektyagi2912@gmail.com">
+    <img align="left" alt="Abhishek Tyagi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 
+<br><br>
 </p>
 
 ***My working tools...***
