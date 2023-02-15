@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektyagi2912&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektyagi2912" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning Algo**
-<br><br>
+<!-- - 🌱 I’m currently learning **Deep Learning Algo** -->
+<!-- <br><br> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
@@ -38,13 +38,24 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
  <i><b>Git Activeness</b></i></p>
  <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishektyagi2912&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishektyagi2912&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishektyagi2912&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br> -->
 
-<hr>
+<!-- </br>
+<!-- GitHub Stats -->
+<!--  
+<h2 align="center">Stats</h2> -->
+<!-- <p align="center"> -->
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=abhishektyagi2912&theme=react&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektyagi2912&theme=react&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishektyagi2912&theme=dracula"/>
+</p>
+
+
+<!-- <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=abhishektyagi2912&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhishektyagi2912&theme=juicyfresh&no-bg=true" /> -->
 
 
